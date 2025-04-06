@@ -64,3 +64,5 @@ data=" helloeveryONE234"
 # print(data.center(30,"*"))
 
 
+for i in range(len(data)):
+    print(data[i])
