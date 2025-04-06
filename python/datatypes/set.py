@@ -51,7 +51,8 @@ s2={9,8,0,6,7,4,5,3,2}
 
 
 # intersection()
-# print(s1.intersection(s2))
+print(s1.intersection(s2))
+print(s2.intersection(s1))
 
 # difference()
 # print(s2.difference(s1))
