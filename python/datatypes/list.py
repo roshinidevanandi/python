@@ -21,6 +21,21 @@
 
 # --------------------LIST------------------
 
+# Methods
+# append
+# insert
+# extend
+# pop
+# remove
+# copy
+# count
+# clear
+# reverse
+# sort
+# max
+# min
+
+
 # lt=[1,2,3,4,5,6,7,8,9,6]
 
 # print(lt)

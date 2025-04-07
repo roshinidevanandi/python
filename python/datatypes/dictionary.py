@@ -1,3 +1,17 @@
+# _______________________DICTIONARY_________________
+
+# METHODS
+
+# update
+# clear
+# del
+# pop
+# get
+# keys
+# value
+# items
+
+
 # details={"name":"roshini","age":23,"emp":False,"skills":["FE","BE","DB","datascience"],"add":{"r_no":3,"landmark":"peddapalli","street":"bandari kunta"}}
 
 # print(details["add"])

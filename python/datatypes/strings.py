@@ -6,6 +6,30 @@
 # It is a sequence data type
 
 
+# METHODS
+
+
+# upper
+# lower
+# swapcase
+# strip
+# rstrip
+# lstrip
+# replace
+# startswith
+# endswith
+# isalpha
+# isdigit
+# isalnum
+# find
+# zfill
+# center
+# split
+# join
+# isspace
+
+
+
 
 # data="helloeveryONE234"
 
