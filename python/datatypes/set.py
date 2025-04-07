@@ -6,6 +6,21 @@
 # It won't allow the duplicates
 
 
+
+# METHODS
+# add
+# remove
+# discard
+# pop
+# clear
+# union
+# intersection
+# difference
+# symmetric_difference
+# count
+# copy
+# len
+
 # st={}
 # print(type(st))
 
@@ -22,6 +37,10 @@
 
 # remove()
 # new_set.remove(9)
+# print(new_set)
+
+# discard()
+# new_set.discard(99)
 # print(new_set)
 
 # pop()  ------------It removes the starting element
@@ -43,16 +62,16 @@
 
 
 
-s1={2,8,6,9,4,5,3,49,89,96,99}
-s2={9,8,0,6,7,4,5,3,2}
+# s1={2,8,6,9,4,5,3,49,89,96,99}
+# s2={9,8,0,6,7,4,5,3,2}
 
 # union()
 # print(s1.union(s2))
 
 
 # intersection()
-print(s1.intersection(s2))
-print(s2.intersection(s1))
+# print(s1.intersection(s2))
+# print(s2.intersection(s1))
 
 # difference()
 # print(s2.difference(s1))
