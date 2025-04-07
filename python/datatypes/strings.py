@@ -203,7 +203,11 @@ str3="hello i am pupy"
 # palindrome        
 
 # str="rar"
-# print(str==str[::-1])
+
+# if str==str[::-1]:
+#     print("palindrome")
+# else:
+#     print("not palindrome")
 
 
 

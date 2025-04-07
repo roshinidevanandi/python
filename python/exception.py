@@ -24,6 +24,19 @@
 #     print("it will always execute")
 
 
+
+# try:
+#     list=[1,2,3,4,5,6,7,8,9]
+
+#     even=[]
+#     for i in range(len(list)):
+#         if list[i]%2==0:
+#             even.append(list[i])
+#     print(even)
+# except Exception as err:
+#     print(err)
+
+
 # 1.find the count of vowels in the given string
 
 # try:
