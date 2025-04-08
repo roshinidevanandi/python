@@ -26,3 +26,16 @@ import math
 # print(math.sqrt(625))
 # print(math.factorial(3))
 # print(math.pi)
+
+
+
+# 1."Write a program that checks if a given number is a perfect square."
+
+# num=int(input("enter the number: "))
+
+# if math.sqrt(num)>math.floor(math.sqrt(num)):
+#     print("not a perfect square ")
+
+
+# else:
+#     print("perfect square")
