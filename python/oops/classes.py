@@ -63,6 +63,40 @@
 
 
 
+# __init__ constructor
+# It is a speacial method called a contructor
+# __init__ is automatically called when an object of a class is created
+# It is used to initialize the object's attribute
+# It is used to assign the values to default attribute
+
+# contructors are two types
+# 1. default constructor
+# example:
+# class robo:
+# def __init__(self):
+# self.x=98
+# self.y=99
+# obj=robo()
+# print(x)
+# print(y)
+
+# 2. parameterised constructor
+# example:
+# class Human:
+#     def __init__(self,name,age,colour):
+#         self.name=name
+#         self.age=age
+#         self.colour=colour
+#     def describe(self):
+#         print(f"{self.name} is {self.age} year's old and hi is {self.colour} colour like you")
+
+# Person1=Human("sai raj",19,"white")
+# Person2=Human("harshith",20,"black")
+# Person1.describe()
+# Person2.describe()
+
+
+
 # Example 2:
 
 # class Car:
