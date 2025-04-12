@@ -86,3 +86,18 @@
 # print(max_of_three(12, 25, 9))  # Output: 25
 
   
+
+
+
+# "Write a program to print all prime numbers between 1 and 100."
+
+# for i in range(2, 101):  # Start from 2, since 1 is not a prime
+#     is_prime = True
+    
+#     for j in range(2, i):
+#         if i % j == 0:
+#             is_prime = False
+#             break
+            
+#     if is_prime:
+#         print(i)
