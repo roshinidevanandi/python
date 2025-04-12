@@ -89,6 +89,26 @@
 
 
 
+# Write a Python program to check whether a number entered by the user is a prime number or not.
+
+# num = int(input("Enter the number here: "))
+
+# # Prime numbers are greater than 1
+# if num <= 1:
+#     print("Not prime")
+# else:
+#     count = 0
+#     for i in range(2, num):
+#         if num % i == 0:
+#             count += 1
+#             break
+#     if count == 0:
+#         print("Prime number")
+#     else:
+#         print("Not prime")
+
+
+
 # "Write a program to print all prime numbers between 1 and 100."
 
 # for i in range(2, 101):  # Start from 2, since 1 is not a prime
