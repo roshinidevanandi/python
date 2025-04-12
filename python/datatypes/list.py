@@ -156,3 +156,22 @@
 #             list[j]=temp
 
 # print(list)
+
+
+
+
+
+# Find the Most Frequent Element in a List
+
+lt = [1, 2, 3, 4, 5, 6, 7, 8, 9, 4, 5, 4, 2, 4, 6]
+
+max_count = 0
+most_freq = None
+
+for i in lt:
+    current_count = lt.count(i)  # Corrected this line
+    if current_count > max_count:
+        max_count = current_count
+        most_freq = i
+
+print(most_freq)
