@@ -12,3 +12,17 @@
 # 4.Hierarical inheritance
 # 5.Hybrid inheritance
 
+# 1.SINGLE INHERITANCE
+# The process of creating a new class from a single base class
+# EXAMPLE 1:
+
+class Parent:
+    def property(self):
+        print("give the properties to child")
+class Child(Parent):
+    def receive(self):
+        print("receives the propertie from parent")
+
+object=Child()
+object.property()
+object.receive() 
